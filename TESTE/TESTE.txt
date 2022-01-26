@@ -1,1 +1,3 @@
-Teste de arquivo que será pushado ao GitHub
+#Teste de arquivo que será pushado ao GitHub
+
+## Aqui vou colocar meus exercícios de Python já feitos.
